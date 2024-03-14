@@ -45,11 +45,15 @@ h1{
 #Anthony{
     background-image: url(./images/Anthony.jpg);
 }
+#athadu{
+    background-image: url(./images/Athadu_Poster.jpg);
+}
 button{
     width:40%;
     background-color:#A367B1 ;
     border-radius: 15;
     color: white;
+    border: none;
 }
 .dark
 {
