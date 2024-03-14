@@ -1,0 +1,66 @@
+body{
+    background-color:#F1EAFF;
+    margin:auto;
+    text-align: center;
+}
+.intro{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    width: fit-content;
+    border-radius: 5%;
+
+}
+h1{
+    color:#FF6969;
+    font-family: 'Sevillana', cursive;
+}
+.container{
+    text-align: start;
+    width: 80%;
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    
+}
+
+.songs
+{
+    display: inline-block;
+    text-align: center;
+    margin: 2em;
+    width: 10em;
+    height:10em;
+    border: 5px solid #711DB0;
+    border-radius:5%;
+    line-height: 18em;
+}
+#leo{
+    background-image: url(./images/max.jpg);
+}
+#rolex{
+    background-image: url(./images/rolex.jpg);
+}
+#Anthony{
+    background-image: url(./images/Anthony.jpg);
+}
+button{
+    width:40%;
+    background-color:#A367B1 ;
+    border-radius: 15;
+    color: white;
+}
+.dark
+{
+    width:7em;
+    height: 3em;
+    border-radius: 50%;
+    margin-left: 70%;
+    background-color: #393646;
+
+}
+.activate
+{
+    background-color: black;
+}
